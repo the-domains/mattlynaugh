@@ -1,6 +1,6 @@
 name: mattlynaugh
 favicon: null
-layout_spectrum: 0.4916
+layout_spectrum: 0.73112
 typography_spectrum: 0.74293
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7099007826764137
+  brandStrength: 0.5
   lightness: 0.1811091871932149
   saturation: 0.5582475310657173
   rhythmicContrast: 0.8211476122960448
